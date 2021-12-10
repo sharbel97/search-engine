@@ -1,7 +1,7 @@
 /*
 **  Author: Sharbel Homa, University of Illinois at Chicago
 **
-**  CS 251 Project 2. Query Search Engine.
+**  Project: Query Search Engine.
 **
 **
 **  Creative Component: Stop Words
@@ -13,7 +13,7 @@
 **  function definition. Mainly collected the words in
 **  set of type string and searching it for every single
 **  word collected by gatherTokens, if it exists in 
-**  stopWords, discard if it doesn't, add it to the index.
+**  stopWords, discard. if it doesn't, add it to the index.
 */
 
 #pragma once
