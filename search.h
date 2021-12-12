@@ -1,5 +1,5 @@
 /*
-**  Author: Sharbel Homa, University of Illinois at Chicago
+**  Author: Sharbel Homa
 **
 **  Project: Query Search Engine.
 **
